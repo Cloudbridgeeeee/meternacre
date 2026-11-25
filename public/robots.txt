@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /workspace
 
-Sitemap: https://meternacre.top/sitemap.xml
+Sitemap: https://meternacre.site/sitemap.xml

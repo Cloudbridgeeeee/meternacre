@@ -9,7 +9,7 @@ Marketing website and interactive product demonstration for MeterNacre.
 - Industry: Energy, Real Estate, Business Intelligence
 - Founder: Victor Ogbemudia (Founder & CEO)
 - Co-founder: Boluwatife Akinola (Co-founder & CTO)
-- Contact: victor@meternacre.top
+- Contact: victor@meternacre.site
 - Business model: Building-based subscriptions
 
 ## Stack
