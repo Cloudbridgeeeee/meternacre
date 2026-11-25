@@ -1,0 +1,16 @@
+{
+  "name": "MeterNacre",
+  "short_name": "MeterNacre",
+  "description": "AI utility analytics software that compares commercial building electricity consumption with historical operating patterns and identifies unusual usage.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#070d1c",
+  "theme_color": "#070d1c",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

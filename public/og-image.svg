@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <radialGradient id="r" cx="0.8" cy="0" r="0.9"><stop offset="0" stop-color="#ffd23f" stop-opacity=".35"/><stop offset="1" stop-color="#070d1c" stop-opacity="0"/></radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="#070d1c"/>
+  <rect width="1200" height="630" fill="url(#r)"/>
+  <g transform="translate(80 90) scale(1.4)"><defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#ffd23f"/><stop offset="1" stop-color="#3fa7ff"/></linearGradient></defs><circle cx="32" cy="32" r="28" fill="url(#g)"/><path d="M35 10L18 36h13l-3 18 17-26H32z" fill="#7c5cff"/></g>
+  <text x="190" y="150" font-family="Manrope, Georgia, serif" font-size="54" font-weight="600" fill="#edf1fb">MeterNacre</text>
+  <text x="80" y="330" font-family="Manrope, Georgia, serif" font-size="72" font-weight="800" fill="#edf1fb">Understand commercial</text>
+  <text x="80" y="414" font-family="Manrope, Georgia, serif" font-size="72" font-weight="800" fill="#edf1fb">energy consumption.</text>
+  <text x="80" y="560" font-family="monospace" font-size="24" fill="#ffd23f" letter-spacing="4">ENERGY  ·  REAL ESTATE  ·  BUSINESS INTELLIGENCE</text>
+</svg>
